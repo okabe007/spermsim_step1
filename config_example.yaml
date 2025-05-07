@@ -1,0 +1,7 @@
+
+shape: spot
+R_spot: 0.15
+theta_spot_deg: 25
+step_length: 0.005
+n_simulation: 200
+repeat: 2
